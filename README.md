@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+;lkjsfd<<<<<<< HEAD
 modified this readme file and not a problem
 =======
 i'm modifying the read me on verybad branch
